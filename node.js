@@ -22,6 +22,8 @@ module.exports = {
         semi: false,
       },
     ],
+    'no-useless-constructor': 'off',
+    '@typescript-eslint/no-useless-constructor': 'off',
   },
   settings: {
     'import/parsers': {
